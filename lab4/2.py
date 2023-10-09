@@ -1,0 +1,5 @@
+A = set(input().split())
+B = set(input().split())
+k1 =(A & B)
+k= len(k1)
+print (k)
